@@ -1,0 +1,31 @@
+* {
+	margin: 0px;
+}
+
+img {
+	display: inline-block;
+}
+
+/*LVL 2 BLOCK, 1/4*/
+#header {
+	background-color: red;
+}
+
+#phone-num {
+	display: inline-block;
+	font-weight: bold;
+}
+
+/*LVL 2 BLOCK, 2/4*/
+#nav-bar a{
+}
+
+/*LVL 2, 3/4*/
+#headline {
+	background-color: black;
+}
+
+/*LVL 2, 4/4*/
+#content {
+	background-color: black;
+}
